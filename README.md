@@ -9,7 +9,7 @@
 <code>nvm use 8.11.1</code><br/>
 <code>npm install gulp-cli -g</code><br/>
 <code>npm i -g yarn</code>
-
+<code>npm i -g webpack</code>
 # Run Progect
  
  <code>yarn</code><br/>
