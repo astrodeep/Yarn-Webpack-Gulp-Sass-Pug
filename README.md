@@ -1,4 +1,4 @@
-# Yarn-Browserify-Gulp-Sass-Pug
+# Yarn-Webpack-Gulp-Sass-Pug
 
 
 # Download
